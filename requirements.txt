@@ -1,0 +1,16 @@
+pydantic
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-huggingface
+python-dotenv
+pypdf
+faiss-cpu
+sentence-transformers
+streamlit
+langchain-classic
+plotly
+anywidget
